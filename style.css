@@ -50,7 +50,7 @@ body {
     border: 1px black solid;
 } */
 .shadow:hover::after {
-  filter: blur(200px);
+  filter: blur(20px);
 }
 
 @keyframes animate {
